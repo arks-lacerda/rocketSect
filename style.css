@@ -53,6 +53,10 @@ main {
   justify-content: space-between;
 }
 
+section {
+  width: 610px;
+}
+
 h1 {
   color: #fff;
   font-size: 36px;
@@ -66,9 +70,6 @@ p span {
   color: #00BFA6;
 }
 
-section {
-  width: 610px;
-}
 
 section p {
   font-family: 'Open Sans', sans-serif;
